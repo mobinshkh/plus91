@@ -1,7 +1,6 @@
 # plus91
 step:1 
-	Create the folder name htdocs.
-	Name- plus91mobin.
+	Create the folder inside htdocs as plus91mobin.
 	
 step:2
 	Add url 
