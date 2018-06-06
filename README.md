@@ -1,7 +1,8 @@
 # plus91
 step:1 
 	Create the folder name htdocs.
-	Name- plus91mobin
+	Name- plus91mobin.
+	
 step:2
 	Add url 
 	http://localhost/plus91mobin/index/111/1
